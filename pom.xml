@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-3.4.9.xsd">
+  <?m2e execute onConfiguration,onIncremental?>
+  <?m2e execute onConfiguration,onIncremental?>
+  <?m2e execute onConfiguration?>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.sid</groupId>
+  <artifactId>jmsenset</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.apache.activemq/activemq-client -->
+<dependency>
+    <groupId>org.apache.activemq</groupId>
+    <artifactId>activemq-client</artifactId>
+    <version>6.1.2</version>
+</dependency>
+  </dependencies>
+</project>
